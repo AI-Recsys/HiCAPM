@@ -1,5 +1,0 @@
-org_id	remap_id
-belong_to_category	0
-belong_to_brand	1
-also_bought	2
-also_viewed	3
