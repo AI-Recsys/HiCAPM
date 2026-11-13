@@ -1,6 +1,0 @@
-org_id remap_id
-belong_to_artist 0
-belong_to_category 1
-belong_to_brand 2
-also_bought 3
-also_viewed 4
