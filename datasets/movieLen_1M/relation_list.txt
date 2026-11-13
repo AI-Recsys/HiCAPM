@@ -1,8 +1,0 @@
-org_id	remap_id
-genre	0
-director	1
-actor	2
-writer	3
-country	4
-language	5
-year	6
